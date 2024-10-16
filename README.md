@@ -72,5 +72,6 @@ No meu tempo livre eu gosto de brincar com a minha filha, correr, ler, meditar o
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@Sjasonbingham/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jason-bingham)
 [![Medium](https://img.shields.io/badge/-Medium-%23000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@jbingham223)
+[![LeetCode](https://img.shields.io/badge/leetcode-%23444?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/jason-bingham/)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lasp.design/)
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://hackerrank.com/profile/@jasonbingham)
