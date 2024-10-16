@@ -63,6 +63,8 @@ No meu tempo livre eu gosto de brincar com a minha filha, correr, ler, meditar o
 
 *O Problema dos Três Corpos* (trilogy), Cixin Liu
 
+*Ministry for the Future*, Kim Stanley Robinson
+
 ## Let's Connect | Conecte-se Comigo!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jason-bingham-67908421/)
