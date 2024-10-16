@@ -41,6 +41,22 @@ No meu tempo livre eu gosto de brincar com a minha filha, correr, ler, meditar o
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jason-bingham&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
+## Bibliography
+
+### Current Reads | Leituras Atuais
+
+*With the Old Breed*, E.B Sledge
+*Algorithms*, Jeff Erickson
+*Refatoração*, Martin Fowler
+
+### Recent Reads | Leituras Recentes
+
+*Superinteligência*, Nick Bostrom
+*A Short, Sharp Shock*, Kim Stanley Robinson
+*The Wheel of Time* (series), Robert Jordan
+*Life 3.0* Max Tegmark
+*O Problema dos Três Corpos* (trilogy), Cixin Liu
+
 ## Let's Connect | Conecte-se Comigo!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jason-bingham-67908421/)
