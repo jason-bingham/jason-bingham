@@ -46,15 +46,21 @@ No meu tempo livre eu gosto de brincar com a minha filha, correr, ler, meditar o
 ### Current Reads | Leituras Atuais
 
 *With the Old Breed*, E.B Sledge
+
 *Algorithms*, Jeff Erickson
+
 *Refatoração*, Martin Fowler
 
 ### Recent Reads | Leituras Recentes
 
 *Superinteligência*, Nick Bostrom
+
 *A Short, Sharp Shock*, Kim Stanley Robinson
+
 *The Wheel of Time* (series), Robert Jordan
+
 *Life 3.0* Max Tegmark
+
 *O Problema dos Três Corpos* (trilogy), Cixin Liu
 
 ## Let's Connect | Conecte-se Comigo!
