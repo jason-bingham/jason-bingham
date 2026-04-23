@@ -42,34 +42,11 @@ No meu tempo livre eu gosto de brincar com a minha filha, correr, ler, meditar o
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jason-bingham&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
-## Bibliography
-
-### Current Reads | Leituras Atuais
-
-*With the Old Breed*, E.B Sledge
-
-*Algorithms*, Jeff Erickson
-
-*Refatoração*, Martin Fowler
-
-### Recent Reads | Leituras Recentes
-
-*Superinteligência*, Nick Bostrom
-
-*A Short, Sharp Shock*, Kim Stanley Robinson
-
-*The Wheel of Time* (series), Robert Jordan
-
-*Life 3.0* Max Tegmark
-
-*O Problema dos Três Corpos* (trilogy), Cixin Liu
-
-*Ministry for the Future*, Kim Stanley Robinson
-
 ## Let's Connect | Conecte-se Comigo!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jason-bingham-67908421/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://jason-bingham.github.io/)
+[![Substack](https://img.shields.io/badge/Substack-FF5722?style=for-the-badge&logo=substack&logoColor=white)](https://substack.com/@fleecehunter)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@Sjasonbingham/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jason-bingham)
 [![Medium](https://img.shields.io/badge/-Medium-%23000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@jbingham223)
