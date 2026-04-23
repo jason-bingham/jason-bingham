@@ -24,6 +24,7 @@ No meu tempo livre eu gosto de brincar com a minha filha, correr, ler, meditar o
 ### Libraries & Frameworks | Bibliotecas e Frameworks
 
 ![Astro](https://img.shields.io/badge/astro-692d94?style=for-the-badge&logo=astro&logoColor=white)
+![React](https://img.shields.io/badge/react-222222.svg?style=for-the-badge&logo=react&logoColor=149eca)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
